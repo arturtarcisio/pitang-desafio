@@ -1,0 +1,9 @@
+br\com\arturtcs\controller\servlets\DeleteUserServlet.class
+br\com\arturtcs\controller\servlets\InsertUserServlet.class
+br\com\arturtcs\repositories\impl\UserRepositoryJDBC.class
+br\com\arturtcs\model\entities\User.class
+br\com\arturtcs\controller\servlets\LoginServlet.class
+br\com\arturtcs\factory\FactoryConnectionJdbc.class
+br\com\arturtcs\controller\servlets\UpdateUserServlet.class
+br\com\arturtcs\controller\servlets\ListUsersServlets.class
+br\com\arturtcs\repositories\interfaces\Repository.class
